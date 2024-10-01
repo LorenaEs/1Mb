@@ -1,5 +1,14 @@
 body {
     background-color: #23379e;
     background-image: linear-gradient(90deg, #23379e 0%, #7b1573 17%, #FFCC70 39%, #fbf2ae 60%, #eeeac4 80%, #ffffff 100%);
-  
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
 }
