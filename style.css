@@ -17,7 +17,7 @@ header{
     text-transform: ;
 }
 
-.nav-itemQ:hover{
+.nav-item:hover{
 cursor: pointer;
 background-color: black;
 color: #C850C0;
