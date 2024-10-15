@@ -8,11 +8,18 @@ header{
     justify-content: center;
 }
 
-ul {
+.nav-list {
     display: flex;
     list-style: none;
     font-size: 40px;
     color: aliceblue;
     gap: 20px;
     text-transform: ;
+}
+
+.nav-item :hover{
+cursor: pointer;
+background-color: black;
+color: #8b8080;
+
 }
